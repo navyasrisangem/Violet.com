@@ -1,2 +1,3 @@
 # LGMVIP-webdev
-This repository is for the projects which are done as part of LGM Web Development internship.
+This project is done as a part of Let's Grow More Virtual Internship Program.
+
