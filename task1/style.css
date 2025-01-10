@@ -54,7 +54,7 @@ p {
   color: blue;
 }
 
-btn1 {
+.btn1 {
   font-size: 1em;
   text-decoration: none;
   transition: 0.8s;
